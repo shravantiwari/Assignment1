@@ -1,0 +1,103 @@
+
+.A{
+    border: hidden;
+    border-style:hidden;
+    padding: 100px;
+    background-color: limegreen;
+    width: 500px;
+    border-radius: 15px;
+    margin:15px auto;
+    text-wrap: wrap;
+    padding-bottom: 200px;
+}
+.btn
+{
+    border-color: none;
+    border-radius: 25px;
+    padding: 10px 15px;
+    width: 250px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.profile
+{
+    width: 350px;
+    padding-left:20px;   
+    padding-top: 20px;
+    padding-right: 200px;
+    
+    margin: 20px auto;
+    border-radius: 15px;
+}
+.img{
+    
+    width:70px;
+    border-radius: 70%;
+}
+.last{
+    padding-left:20px;
+width:380px;
+border-top: 3px solid lightgray;
+color: blue;
+}
+.main{
+    border:3px solid lightgray;
+    width: 400px;
+    padding-top: 20px;
+    margin: 20px auto;
+    border-radius: 15px;
+    
+}
+.imgpad
+{
+    padding-left: 20px;
+    padding-bottom: 100px;
+}
+.third{
+    border:3px solid lightgray;
+    margin:30px auto;
+    width:400px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+
+}
+.ok
+{
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    width:100%;
+}
+.space
+{
+    padding:20px;
+}
+.small
+{
+    border: 2px solid lightgrey;
+    color:blue;
+    font-size: large;
+    margin: 5px;
+    margin-left: 20px;
+    width:100px;
+    padding: 15px;
+}
+.email
+{
+    padding:12px;
+    margin-bottom: 20px;
+
+}
+.password
+{
+padding:12px;
+margin-bottom:20px;
+
+}
+.login
+{
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    padding:8px 50px;
+    font-family:Lucida;
+}
